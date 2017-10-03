@@ -1,0 +1,28 @@
+body {
+	text-align: center;
+	background-color: #222223;
+}
+
+.main-content-container {
+	padding-top: 100px;
+}
+
+.quote-wrapper {
+	max-width: 600px;
+	padding: 25px;
+	margin: auto;
+	background-color: white;
+}
+
+.quote-author {
+	text-align: right;
+	padding: 5px;
+}
+
+.sharebuttons {
+	float: left;
+	font-size: 30px
+}
+.quotebutton {
+	float: right;
+}
